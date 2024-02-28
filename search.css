@@ -109,7 +109,8 @@
     font-weight: 500;
     opacity: 0.8;
     transition: opacity 0.3s;
-    margin-left: 20px;
+    margin-left: 0px;
+    margin-top: 80px;
   }
   #principal #latNav #installApp svg {
     margin-right: 15px;
